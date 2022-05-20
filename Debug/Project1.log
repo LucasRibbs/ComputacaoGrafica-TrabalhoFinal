@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: O diretório intermediário (Debug\) contém arquivos compartilhados de outro projeto (Project1.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
+  TrabalhoFinal.cpp
+C:\Users\Usuario\source\repos\Project1\TrabalhoFinal.cpp(15,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': redefinição de macro
+C:\Users\Usuario\source\repos\Project1\TrabalhoFinal.cpp : message : consulte a definição anterior de '_CRT_SECURE_NO_WARNINGS'
+  RgbImage.cpp
+C:\Users\Usuario\source\repos\Project1\RgbImage.cpp(22,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': redefinição de macro
+C:\Users\Usuario\source\repos\Project1\RgbImage.cpp : message : consulte a definição anterior de '_CRT_SECURE_NO_WARNINGS'
+  Gerando Código...
+  Project1.vcxproj -> C:\Users\Usuario\source\repos\Project1\Debug\TrabalhoFinal.exe
